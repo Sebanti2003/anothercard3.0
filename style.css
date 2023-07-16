@@ -95,6 +95,18 @@ h4{
     gap: 10px;
 
     }
+     .mainbody{
+        width: 55%;
+        height: 60%;
+        border: 3px solid black;
+        box-shadow: 5px 5px 30px rgb(24, 10, 57);
+        display: flex;
+        flex-direction: column-reverse;   
+    }
+    body{
+        height: 100vh;
+        width: 100vw;
+    }
     
 }
     
